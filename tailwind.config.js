@@ -9,6 +9,13 @@ module.exports = {
         buttongradient2: "#7F56D9",
         herogradient1: "#04016C",
         herogradient2: "#4A16BD",
+        featuresbg1: "#D9ECFF",
+        featuresbg2: "#F0F3FF",
+      },
+      fontFamily: {
+        saira: ["Saira", "sans-serif"],
+        Rowdies: ["Rowdies", "sans-serif"],
+        Righteous: ["Righteous", "sans-serif"],
       },
     },
   },
