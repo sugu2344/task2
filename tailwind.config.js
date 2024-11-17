@@ -18,6 +18,8 @@ module.exports = {
         subbg1: "#E441FF",
         subbg2: "#1901F8",
         subbg3: "#00B3FF",
+        testimonialsbg1: "#DBEDFF",
+        testimonialsbg2: "#DBEDFF",
       },
       fontFamily: {
         saira: ["Saira", "sans-serif"],
