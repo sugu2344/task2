@@ -18,4 +18,10 @@
   .course-card-description {
     @apply font-Righteous text-lg text-primary text-center lg:text-justify;
   }
+  .categories-name {
+    @apply font-Righteous text-2xl text-[#324361] text-center;
+  }
+  .categories-description {
+    @apply font-Righteous text-lg text-[#4F547B] text-center text-nowrap;
+  }
 }

@@ -13,6 +13,8 @@ module.exports = {
         featuresbg2: "#F0F3FF",
         coursesbg1: "#739FE8",
         coursesbg2: "#4F18CA",
+        categoriesbg1: "#D9ECFF",
+        categoriesbg2: "#D9ECFF",
       },
       fontFamily: {
         saira: ["Saira", "sans-serif"],
