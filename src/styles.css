@@ -12,4 +12,10 @@
   .card-amount {
     @apply font-saira text-xl text-[#4E596B] cursor-pointer;
   }
+  .course-card-heading {
+    @apply font-Righteous text-2xl text-primary text-center;
+  }
+  .course-card-description {
+    @apply font-Righteous text-lg text-primary text-center lg:text-justify;
+  }
 }
