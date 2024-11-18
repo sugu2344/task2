@@ -26,6 +26,8 @@ module.exports = {
         footerbarbg1: "#0351AE",
         footerbarbg2: "#A542C8",
         copywrites: "#001AFF",
+        musicbg1: "#2E08C7",
+        musicbg2: "#7E08C7",
       },
       fontFamily: {
         saira: ["Saira", "sans-serif"],
