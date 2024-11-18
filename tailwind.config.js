@@ -23,6 +23,9 @@ module.exports = {
         footerbg1: "#477AE3",
         footerbg2: "#931BBD",
         dark: "#000000",
+        footerbarbg1: "#0351AE",
+        footerbarbg2: "#A542C8",
+        copywrites: "#001AFF",
       },
       fontFamily: {
         saira: ["Saira", "sans-serif"],
