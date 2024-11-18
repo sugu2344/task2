@@ -24,4 +24,10 @@
   .categories-description {
     @apply font-Righteous text-lg text-[#4F547B] text-center text-nowrap;
   }
+  .footer-head {
+    @apply text-3xl  text-[#0A033C] mb-2 space-y-3;
+  }
+  .footer-text {
+    @apply font-Righteous text-xl text-dark space-y-2;
+  }
 }

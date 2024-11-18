@@ -20,6 +20,9 @@ module.exports = {
         subbg3: "#00B3FF",
         testimonialsbg1: "#DBEDFF",
         testimonialsbg2: "#DBEDFF",
+        footerbg1: "#477AE3",
+        footerbg2: "#931BBD",
+        dark: "#000000",
       },
       fontFamily: {
         saira: ["Saira", "sans-serif"],
