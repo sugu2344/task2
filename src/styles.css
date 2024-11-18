@@ -30,4 +30,7 @@
   .footer-text {
     @apply font-Righteous text-xl text-dark space-y-2;
   }
+  .header-text {
+    @apply font-Righteous text-xl text-[#000000];
+  }
 }
