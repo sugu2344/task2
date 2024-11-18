@@ -27,36 +27,46 @@
 
 <body>
     <!-- .........................header  section.....................-->
-    <!-- <div class="container mx-auto ">
-        <nav class="flex justify-around bg-primary items-center">
+    <div class="container mx-auto">
+        <nav class="flex justify-between bg-primary items-center">
+            <a href="#"><img class="h-20 w-20 logo" src="./public/mainlogo.png" alt=""></a>
 
-            <a href="#"><img class="h-20 w-20" src="./public/mainlogo.png" alt=""></a>
-
-            <ul class="flex space-x-3">
+            <!-- Navigation Links -->
+            <ul class="flex space-x-3 nav-links hidden md:flex">
                 <li><a href="#">Services</a></li>
-                <li>
-                    <href="#">Pricing</href=>
-                </li>
+                <li><a href="#">Pricing</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
-            <ul class="flex space-x-3">
+
+            <!-- Navigation Icons -->
+            <ul class="flex space-x-3 nav-icons hidden md:flex">
                 <li><img src="./public/cart symbol.png"></li>
                 <li><img src="./public/profile.png"></li>
-                <li><img src="./public/search.png"></li>+
+                <li><img src="./public/search.png"></li>
             </ul>
 
-            <ul class="flex space-x-3">
-                <li><button class="px-5 py-3 hover:bg-gradient-to-r from-buttongradient1 to-buttongradient2 rounded-lg">
+            <!-- Navigation Buttons -->
+            <ul class="flex space-x-3 nav-buttons hidden md:flex">
+                <li>
+                    <button class="px-5 py-3 hover:bg-gradient-to-r from-buttongradient1 to-buttongradient2 rounded-lg">
                         Login
                     </button>
                 </li>
-                <li><button
-                        class="px-5 py-3 hover:bg-gradient-to-r from-buttongradient1 to-buttongradient2 cursor-pointer rounded-lg ">Sign
-                        Up</button></li>
+                <li>
+                    <button
+                        class="px-5 py-3 hover:bg-gradient-to-r from-buttongradient1 to-buttongradient2 cursor-pointer rounded-lg">
+                        Sign Up
+                    </button>
+                </li>
             </ul>
+
+            <!-- Menu Button -->
+            <div class="menu-btn md:hidden text-xl font-bold">☰</div>
         </nav>
-    </div> -->
+    </div>
+
+
     <!-- ........................................................................hero section.................................................. -->
     <!-- <section class="container overflow-x-hidden">
         <div class="bg-gradient-to-r from-herogradient1 to-herogradient2 flex flex-col justify-around w-full">
