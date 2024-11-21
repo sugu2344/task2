@@ -1792,8 +1792,8 @@ video {
     height: 15rem;
   }
 
-  .lg\:h-96 {
-    height: 24rem;
+  .lg\:h-\[30rem\] {
+    height: 30rem;
   }
 
   .lg\:w-32 {
